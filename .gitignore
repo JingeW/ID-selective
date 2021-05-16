@@ -1,10 +1,10 @@
 __pycache__
 .vscode
 Data
-Export
+Export/
 kFolder
 Result
 Stats
 *.png
-pth/
+pth
 
