@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+Data
+Export
+kFolder
+Result
+Stats
+*.png
+pth/
+
